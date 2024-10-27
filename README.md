@@ -37,5 +37,5 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   https://github.com/nazmulhossain17/OOP_LAB_Report.git
+   cd OOP_LAB_Report
